@@ -194,9 +194,7 @@ results/                  per-room results, comparison.md, figures/
 ```
 
 ## Development notes
-
-Built with Claude (Anthropic) as a coding partner and mentor. The design decisions were mine:
-cell size, chairs tied to desks, per-cell penalties, step-by-step actions, score-difference
+Decided on decisions such as cell size, chairs tied to desks, per-cell penalties, step-by-step actions, score-difference
 rewards, the evaluation budget and the success criteria.
 
 MIT licensed.
