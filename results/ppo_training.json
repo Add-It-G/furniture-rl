@@ -1,0 +1,7 @@
+{
+ "timesteps": 300000,
+ "seconds": 84.81213774997741,
+ "seed": 42,
+ "n_envs": 4,
+ "min_finish_step": 50
+}
